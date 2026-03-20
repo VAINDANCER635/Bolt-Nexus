@@ -1,67 +1,71 @@
 <div align="center">
+  <h1>⚡ Bolt Nexus</h1>
+  <p><strong>High-Fidelity Financial Command Center</strong><br>Boutique neo-banking ecosystem for secure, seamless wealth management</p>
 
-<h1>⚡ Bolt Nexus</h1>
-
-**High-Fidelity Financial Command Center**  
-Boutique neo-banking ecosystem built for the future of wealth.
-
+  <!-- Hero screenshot - use your main login / dashboard image -->
+  <img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/assets/screenshots/login-screen.jpg" alt="Bolt Nexus Login Screen" width="40%" style="border-radius: 24px; box-shadow: 0 0 30px rgba(0, 255, 157, 0.3);" />
+  <br><br>
 </div>
 
-### 🌟 Overview
+### 🌟 Vision & Core Experience
 
-Bolt Nexus is a **premium, secure mobile-first wealth interface** — designed to redefine how people interact with their finances.  
+Bolt Nexus is a **premium mobile wealth interface** built to give users effortless control over their finances in a locked-down, futuristic environment.
 
-It combines:
-- **3D "Titanium Node" architecture** — immersive, animated financial visualization powered by Reanimated
-- **Biometric-encrypted asset management** — end-to-end protection with device-level auth
-- **Agentic UI** — intelligent, adaptive interface that anticipates user needs
-- **Buttery-smooth performance** — cross-platform native feel using React Native + Expo + Reanimated
+Key highlights from the real app:
+- **Biometric-first security** — fingerprint/face ID auth with encrypted flows
+- **Neon-dark premium UI** — deep blacks + glowing green accents for high-trust feel
+- **Lightning-fast interactions** — powered by Reanimated for buttery-smooth animations
+- **Agentic & intuitive design** — adaptive screens that anticipate needs (login, access key, authorize flows)
+- **3D Titanium Node architecture** — immersive financial visualization (in progress)
 
-This is not just another banking app — it's a **command center** for modern wealth: fast, locked-down, and built to scale.
+This is a **life-changing command center**: secure, performant, and built to scale real-world wealth management.
 
 ### 🛡️ Status & License
 
-- **Proprietary & Closed-Source**  
-  All rights reserved. This repository is view-only for portfolio purposes.  
-  No rights are granted to use, copy, modify, distribute, or create derivative works without explicit written permission from Adam Korrison (@korrisonadam).
+**Proprietary & Closed-Source**  
+All rights reserved. View-only for portfolio purposes.  
+No rights granted to use, copy, modify, distribute, or create derivatives without explicit written permission from Adam Korrison (@korrisonadam).
 
-- **Current Stage**: Early prototype / core architecture  
-  Actively developed — initial template evolving into full neo-banking MVP.
+**Current Stage**: Core MVP in progress (auth flows, screens, biometrics foundation)
 
-### 🔧 Tech Stack Highlights
+### 🔧 Tech Stack
 
-| Category          | Technologies Used                          |
-|-------------------|--------------------------------------------|
-| Framework         | React Native, Expo                         |
-| Animations/UI     | Reanimated (for 3D Titanium Node & fluid gestures) |
-| Security          | Biometrics, secure storage, encrypted flows |
-| Language          | TypeScript                                 |
-| Architecture      | Agentic UI patterns, modular components    |
-| Other             | React Navigation, Zustand / Jotai (state), Expo Router |
+| Category       | Technologies                          |
+|----------------|---------------------------------------|
+| Framework      | React Native, Expo                    |
+| Animations     | Reanimated (smooth gestures & nodes)  |
+| Language       | TypeScript                            |
+| UI/UX          | Custom neon-dark components           |
+| Security       | Biometrics, secure storage            |
+| Navigation     | React Navigation / Expo Router        |
 
-**Roots**: React, Next.js, Svelte, Ionic, Flutter (exploring bridges)
+### 📱 Key Screens (Screenshots)
 
-### 🔥 Key Features (In Progress / Planned)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/assets/screenshots/image7.jpeg" alt="Biometric Auth" width="200" style="border-radius:16px;" /></td>
+      <td><img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/assets/screenshots/image8.jpeg" alt="Access Key" width="200" style="border-radius:16px;" /></td>
+      <td><img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/assets/screenshots/image9.jpeg" alt="Authorize Fingerprint" width="200" style="border-radius:16px;" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/assets/screenshots/image10.jpeg" alt="Dashboard / Node View" width="200" style="border-radius:16px;" /></td>
+      <td><img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/assets/screenshots/image11.jpeg" alt="Asset Management" width="200" style="border-radius:16px;" /></td>
+      <td><img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/assets/screenshots/image12.jpeg" alt="Secure Flow" width="200" style="border-radius:16px;" /></td>
+    </tr>
+  </table>
+</div>
 
-- Immersive 3D financial node visualization (Titanium Node concept)
-- Biometric login + transaction signing
-- Real-time asset tracking & management
-- Adaptive, AI-augmented UI that learns user behavior
-- Cross-platform (iOS + Android) with native performance
-- Dark/neon premium design language
+### 🚀 Next Milestones
 
-### 🚀 Roadmap Teaser
+- Full 3D Titanium Node visualization & animations
+- End-to-end encrypted transactions
+- AI-augmented agentic features
+- Cross-platform polish (iOS + Android)
 
-- Q2 2026: Core auth + asset vault MVP
-- Q3 2026: 3D node animations + agentic interactions
-- Q4 2026: Beta testing with select users
-- Future: Web companion (Next.js), Flutter hybrid options
+### 🤝 Let's Talk
 
-### 📸 Screenshots / Previews
+Building something electric and life changing.  
+Feedback, collaboration, or early interest? → [@korrisonadam on X](https://x.com/korrisonadam)
 
-(Add screenshots here once you have them — e.g. login screen, 3D node demo GIFs)
-
-```markdown
-<!-- Placeholder for future media -->
-<image-card alt="Login Screen" src="https://via.placeholder.com/400x800/0D1117/00BFFF?text=Secure+Login" ></image-card>
-<image-card alt="Titanium Node 3D" src="https://via.placeholder.com/400x800/0D1117/00BFFF?text=3D+Node+Visualization" ></image-card>
+Always shipping what matters. ⚡
