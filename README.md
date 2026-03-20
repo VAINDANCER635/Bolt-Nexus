@@ -5,7 +5,7 @@
   <!-- Hero screenshot - use your main login / dashboard image -->
   <img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/BX.jpg" alt="Bolt Nexus Login Screen" width="40%" style="border-radius: 24px; box-shadow: 0 0 30px rgba(0, 255, 157, 0.3);" />
   <br><br>
-  <img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/BX2.jpg" alt="Bolt Nexus Login Screen" width="40%" style="border-radius: 24px; box-shadow: 0 0 30px rgba(0, 255, 157, 0.3);" />
+  <img src="https://github.com/VAINDANCER635/Bolt-Nexus-ReactNative/raw/master/BX2n.jpg" alt="Bolt Nexus Login Screen" width="40%" style="border-radius: 24px; box-shadow: 0 0 30px rgba(0, 255, 157, 0.3);" />
 </div>
 
 ### 🌟 Vision & Core Experience
